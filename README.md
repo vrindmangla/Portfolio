@@ -4,7 +4,7 @@ A modern and responsive portfolio website showcasing my projects, technical skil
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio](https://your-portfolio.vercel.app)
+🔗 [View Portfolio](https://portfolio-rho-eosin-70.vercel.app/)
 
 ---
 
@@ -109,18 +109,6 @@ Run the development server:
 
 ```bash
 npm run dev
-```
-
----
-
-## 🔐 Environment Variables
-
-Create a `.env.local` file and add:
-
-```env
-NEXT_PUBLIC_EMAILJS_SERVICE_ID=your_service_id
-NEXT_PUBLIC_EMAILJS_TEMPLATE_ID=your_template_id
-NEXT_PUBLIC_EMAILJS_PUBLIC_KEY=your_public_key
 ```
 
 ---
